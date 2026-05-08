@@ -27,8 +27,8 @@ function App() {
     ];
 
     const formations = [
-        { title: "Licence en Sciences informatiques", date: "2024 - 2026", description: "Faculté des Sciences Semlalia - Marrakech | en cours" },
-        { title: "Baccalauréat Sciences Physiques", date: "2023", description: "Lycée Abdelkrime Elkhattabi - Elkalaa des Sraghna | Mention Assez bien" }
+        { title: "Licence en Sciences informatiques", date: "2025 - 2026", description: "Faculté des Sciences Semlalia - Marrakech | en cours" },
+        { title: "Baccalauréat Sciences Physiques", date: "2024", description: "Lycée Abdelkrime Elkhattabi - Elkalaa des Sraghna | Mention Assez bien" }
     ];
 
     React.useEffect(() => {
@@ -82,7 +82,7 @@ function App() {
                 <h2><i className="fas fa-user-astronaut"></i> À propos</h2>
                 <p data-aos="fade-up">
                     Animé par une véritable passion pour l'ingénierie web et les technologies émergentes,
-                    je poursuis actuellement une Licence 2 en Sciences Informatiques. 
+                    je suis actuellement en deuxième année de Licence en Sciences Informatiques. 
                     Mon ambition est de concevoir des applications à la fois innovantes, 
                     robustes et centrées sur l’expérience utilisateur. 
                     Naturellement curieux et animé par une soif d’apprentissage autodidacte,
